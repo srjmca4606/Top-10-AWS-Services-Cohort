@@ -1,6 +1,6 @@
 # 🖥️ Day 2 — AWS EC2 Deep Dive
 
-> **Cohort:** AWS Cloud Cohort by CloudDevOpsHub
+> **Cohort:** AWS Cloud Cohort by CloudDevOpsHub Community & Vikas Ratnawat
 
 ---
 
