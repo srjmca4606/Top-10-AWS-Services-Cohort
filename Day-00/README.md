@@ -52,7 +52,7 @@ Know someone who should learn AWS? 🔥
 ✅ WhatsApp group support
 ✅ Resume-worthy projects
 ✅ Certificate on completion
-✅ Mentored by Vikas Ratnawat (Ex-Amazon | Microsoft | Google | Microsoft MVP)
+✅ Mentored by Vikas Ratnawat from CloudDevOpsHub (PWC | Ex Microsoft MVP)
 ```
 
 ---
