@@ -4,56 +4,6 @@
 
 ---
 
-## 🚀 How to Use This Repo
-
-### 🍴 Step 1 — Fork This Repo
-```
-1. Click "Fork" at the top-right of this GitHub repo
-2. It will be copied to your own GitHub account
-3. Clone it locally:
-   git clone https://github.com/YOUR_USERNAME/aws-10day-challenge
-4. Do the practicals → Update your README with your own screenshots & notes
-5. Push your changes:
-   git add . && git commit -m "Day X complete ✅" && git push
-```
-> 💡 Your forked repo becomes your **public portfolio** — share it on LinkedIn!
-
----
-
-### 🔐 Step 2 — Login & Watch Recorded Sessions
-**Portal Login:**
-👉 [https://devopswithvikas.com/eud/login/email](https://devopswithvikas.com/eud/login/email)
-
-**Bookmark Your Recordings Page:**
-👉 [https://devopswithvikas.com/eud/bookings](https://devopswithvikas.com/eud/bookings)
-
-```
-→ Login with your registered email
-→ Go to "My Bookings" → Open AWS Cohort-6
-→ Watch the Day-wise Recorded Video Session for today
-→ Pause. Practice. Repeat.
-```
-> 📌 Recordings are valid for **8 weeks** — watch at your own pace!
-
----
-
-### 👥 Step 3 — Invite Your Friends
-Know someone who should learn AWS? 🔥
-
-**Share this enrollment link with them:**
-👉 [https://devopswithvikas.com/offer/top-10-aws-services-cohort-2026](https://devopswithvikas.com/offer/top-10-aws-services-cohort-2026)
-
-```
-✅ Top 10 AWS Services covered
-✅ Hands-on practicals every day
-✅ WhatsApp group support
-✅ Resume-worthy projects
-✅ Certificate on completion
-✅ Mentored by Vikas Ratnawat (Ex-Amazon | Microsoft | Google | Microsoft MVP)
-```
-
----
-
 ## 🎯 Today's Goal
 
 Master **S3 Storage Classes and Lifecycle Rules** — then get introduced to databases on AWS. This day is about cost optimization (huge in real jobs!) and understanding when to use object storage vs databases. 💰
