@@ -122,7 +122,7 @@ Step 6: Post on LinkedIn with certificate + 10-day screenshots! 🎉
 > *Proud of every single one of you."* 🔥  
 >
 > — **Vikas Ratnawat**  
-> *Ex-Amazon | Microsoft | Google | PwC | Microsoft MVP*  
+> * PwC | Ex Microsoft MVP*  
 > *Founder, CloudDevOpsHub — 58,000+ Members | 10,000+ Students*
 > [← Day 9](../Day-09/README.md) | [🏠 Back to Main](../README.md)
 
@@ -130,7 +130,7 @@ Step 6: Post on LinkedIn with certificate + 10-day screenshots! 🎉
 
 *Built with ❤️ by Vikas Ratnawat | CloudDevOpsHub*  
 *🌐 devopswithvikas.com | 🔗 linkedin.com/in/vikasratnawat*  
-*58,000+ Members | 43+ Cohorts | 10,000+ Students Trained*
+*58,000+ Members | 43+ Live & Interactive Batches | 10,000+ Students Trained*
 
 > [← Day 9](../Day-09/README.md) | [🏠 Back to Main](../README.md)
 
@@ -140,7 +140,7 @@ Step 6: Post on LinkedIn with certificate + 10-day screenshots! 🎉
 
 ```
 🏆 CERTIFICATE EARNED! I completed the 10-Day AWS Cloud Challenge!
-@Vikas Ratnawat | @CloudDevOpsHub | AWS Cohort-6 ✅
+@Vikas Ratnawat | @CloudDevOpsHub | AWS Cohort ✅
 
 10 days. 10 practicals. 10 challenges.
 Real AWS. Real projects. Real confidence. 💪
