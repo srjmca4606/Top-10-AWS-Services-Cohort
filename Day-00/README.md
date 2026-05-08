@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## 🚀 How to Use This Repo
 
 ### 🍴 Step 1 — Fork This Repo
@@ -124,6 +126,7 @@ Step 3: Add credit/debit card (₹2 verification only — NOT charged)
 Step 4: Choose "Basic Support — Free"
 Step 5: Login to AWS Console → https://console.aws.amazon.com
 Step 6: Take a screenshot of your AWS Console Dashboard
+![alt text](image.png)
 Step 7: Post on LinkedIn — Challenge Accepted! 🔥
 ```
 
